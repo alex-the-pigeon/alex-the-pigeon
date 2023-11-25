@@ -1,5 +1,11 @@
-### About Me
-Hi! 👋  I'm Alex, a junior web-developer from Victoria, Australia.
+### Hi! 👋  I'm Alex, a junior web-developer from Victoria, Australia.
+
+- 👩🏼‍🎓 Current student at [**Coder Academy**](https://coderacademy.edu.au/) (February - December 2023)
+- 🌱 I’m currently learning how to make a full-stack web app with **JavaScript** and **ReactJS**
+- 💼 Currently working in **electronics retail** (since 2012)
+- 😊 Seeking new job opportunities for 2024 in **web development**
+  
+_____
 
 ### Skills
 | | |
@@ -11,6 +17,8 @@ Hi! 👋  I'm Alex, a junior web-developer from Victoria, Australia.
 | Deployment | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white) |
 | Version Control | ![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 | Design | ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+
+_____
 
 [![Top Langs](https://github-readme-stats-two-phi-60.vercel.app/api/top-langs/?username=tatermysalad&layout=donut&theme=dark&hide=Shell&custom_title=My%20GitHub%20Top%205)](#)
 
