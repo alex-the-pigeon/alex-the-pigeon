@@ -1,7 +1,7 @@
 ### Hi! 👋  I'm Alex, a junior web-developer from Victoria, Australia.
 
 - 👩🏼‍🎓 Current student at **Coder Academy** (February - December 2023)
-- 🌱 I’m currently learning how to make a full-stack web app with **JavaScript** and **ReactJS**
+- 🌱 I’ve just finished building a MERN app called [The Overlooked Hotels](https://github.com/Scare-BnB)
 - 💼 Currently working in **electronics retail** (since 2012)
 - 😊 Seeking new job opportunities for 2024 in **web development**
   
