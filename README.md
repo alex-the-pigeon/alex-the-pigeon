@@ -1,9 +1,7 @@
 ### Hi! 👋  I'm Alex, a junior web-developer from Victoria, Australia.
 
 - 👩🏼‍🎓 Graduate of **Coder Academy** (February - December 2023)
-- 🌱 I’ve just finished building a MERN app called [The Overlooked Hotels](https://github.com/Scare-BnB)
-- 💼 Currently working in **electronics retail** (since 2012)
-- 😊 Seeking new job opportunities for 2024 in **web development**
+
   
 _____
 
